@@ -88,7 +88,7 @@
     "device-detector-js": "^2.2.1",
     "docker-events": "0.0.2",
     "docker-loghose": "^1.6.5",
-    "dockerode": "^3.3.4",
+    "dockerode": "^3.3.5",
     "elasticsearch": "^15.2.0",
     "eventemitter3": "^3.1.0",
     "fast-safe-stringify": "^2.0.6",
