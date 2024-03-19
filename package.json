@@ -101,7 +101,7 @@
     "influx-line-protocol-parser": "^0.2.0",
     "js-yaml": "^3.14.0",
     "json-influx": "^0.3.0",
-    "kubernetes-client": "^8.3.7",
+    "kubernetes-client": "^9.0.0",
     "logsene-js": "^1.1.74",
     "lru-cache": "^5.1.1",
     "maxmind": "^3.1.2",
