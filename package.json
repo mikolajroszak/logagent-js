@@ -132,7 +132,7 @@
     "throng": "^4.0.0",
     "through2": "^4.0.2",
     "try-call": "0.0.2",
-    "unset-value": "^1.0.0"
+    "unset-value": "^2.0.1"
   },
   "optionalDependencies": {
     "aedes": "^0.42.1",
