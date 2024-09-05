@@ -76,7 +76,7 @@
   "license": "Apache-2.0",
   "//": "!!! bithound claims maxmind-geolite-mirror is not used, it is! Don't remove ...",
   "dependencies": {
-    "@azure/event-hubs": "^5.2.0",
+    "@azure/event-hubs": "^5.10.0",
     "alasql": "^1.7.2",
     "aws-sdk": "^2.689.0",
     "cassandra-driver": "^3.5.0",
@@ -112,7 +112,7 @@
     "mkpath": "^1.0.0",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
-    "mqtt": "^4.2.8",
+    "mqtt": "^5.7.2",
     "mysql": "^2.16.0",
     "pg": "^7.18.2",
     "prettyjson": "^1.2.1",
