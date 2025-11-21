@@ -99,7 +99,7 @@
     "graceful-fs": "^4.2.9",
     "http-aws-es": "^6.0.0",
     "influx-line-protocol-parser": "^0.2.0",
-    "js-yaml": "^3.14.0",
+    "js-yaml": "^3.14.2",
     "json-influx": "^0.3.0",
     "kubernetes-client": "^8.3.7",
     "logsene-js": "^1.1.74",
